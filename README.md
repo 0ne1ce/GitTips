@@ -121,4 +121,4 @@ git push -u origin main
 
 ----  
 
-[Полезный курс от Яндекс Практикума по git]("https://practicum.yandex.ru/profile/git-basics/")
+[Полезный курс от Яндекс Практикума по git](https://practicum.yandex.ru/profile/git-basics)
